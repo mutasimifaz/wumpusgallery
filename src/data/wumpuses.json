@@ -1,0 +1,170 @@
+[
+  {
+    "slug": "dance",
+    "name": "Dance",
+    "description": "Wumpus dancing with headphones on",
+    "mood": "Happy"
+  },
+  {
+    "slug": "cheer",
+    "name": "Cheer",
+    "description": "Wumpus jumps for joy",
+    "mood": "Happy"
+  },
+  {
+    "slug": "hungry",
+    "name": "Hungry",
+    "description": "Wumpus excitedly waves a fork and knife",
+    "mood": "Chill"
+  },
+  {
+    "slug": "surprised",
+    "name": "Surprised",
+    "description": "Wumpus exclaims in disbelief",
+    "mood": "Chill"
+  },
+  {
+    "slug": "thinking",
+    "name": "Thinking",
+    "description": "Wumpus tilts his head inquisitively",
+    "mood": "Chill"
+  },
+  {
+    "slug": "cry",
+    "name": "Cry",
+    "description": "Tears pour from Wumpus's eyes",
+    "mood": "Yikes"
+  },
+  {
+    "slug": "thanks",
+    "name": "Thanks",
+    "description": "Wumpus bows his head and clasps his hands",
+    "mood": "Happy"
+  },
+  {
+    "slug": "affection",
+    "name": "Affection",
+    "description": "Wumpus waves his arms in a hugging motion",
+    "mood": "Lovey"
+  },
+  {
+    "slug": "nervous",
+    "name": "Nervous",
+    "description": "Wumpus shaking and sweating",
+    "mood": "Yikes"
+  },
+  {
+    "slug": "nauseous",
+    "name": "Nauseous",
+    "description": "Wumpus whimpers from a stomach ache",
+    "mood": "Yikes"
+  },
+  {
+    "slug": "frustrated",
+    "name": "Frustrated",
+    "description": "Wumpus wags his finger in disapproval",
+    "mood": "Grumpy"
+  },
+  {
+    "slug": "evil",
+    "name": "Evil",
+    "description": "Wumpus grins mischievously",
+    "mood": "Grumpy"
+  },
+  {
+    "slug": "no",
+    "name": "No",
+    "description": "Wumpus wags his finger in disapproval",
+    "mood": "Grumpy"
+  },
+  {
+    "slug": "wave",
+    "name": "Wave",
+    "description": "Wumpus waves hello",
+    "mood": "Happy"
+  },
+  {
+    "slug": "curious",
+    "name": "Curious",
+    "description": "Wumpus peering through a magnifying glass",
+    "mood": "Chill"
+  },
+  {
+    "slug": "aww",
+    "name": "Aww",
+    "description": "Wumpus fawns at the screen",
+    "mood": "Lovey"
+  },
+  {
+    "slug": "congratulations",
+    "name": "Congratulations",
+    "description": "Wumpus nods happily as confetti falls",
+    "mood": "Happy"
+  },
+  {
+    "slug": "laugh",
+    "name": "Laugh",
+    "description": "Wumpus bursts into tears laughing",
+    "mood": "Happy"
+  },
+  {
+    "slug": "angry",
+    "name": "Angry",
+    "description": "Wumpus fumes with rage",
+    "mood": "Grumpy"
+  },
+  {
+    "slug": "relief",
+    "name": "Relief",
+    "description": "Wumpus breathes a sigh of relief",
+    "mood": "Happy"
+  },
+  {
+    "slug": "smirk",
+    "name": "Smirk",
+    "description": "Wumpus smirks and raises his eyebrows",
+    "mood": "Lovey"
+  },
+  {
+    "slug": "sleep",
+    "name": "Sleep",
+    "description": "Wumpus falls asleep while standing",
+    "mood": "Chill"
+  },
+  {
+    "slug": "sad",
+    "name": "Sad",
+    "description": "Wumpus hugs his knees and sighs",
+    "mood": "Yikes"
+  },
+  {
+    "slug": "unamused",
+    "name": "Unamused",
+    "description": "Wumpus shifts his gaze unamused",
+    "mood": "Grumpy"
+  },
+  {
+    "slug": "love",
+    "name": "Love",
+    "description": "Wumpus exuding love and affection",
+    "mood": "Lovey"
+  },
+  {
+    "slug": "scared",
+    "name": "Scared",
+    "description": "Wumpus looks up and screams in horror",
+    "mood": "Yikes"
+  },
+  {
+    "slug": "smile",
+    "name": "Smile",
+    "description": "Wumpus tilts his head back and smiles",
+    "mood": "Happy"
+  },
+  {
+    "slug": "ok",
+    "name": "Ok",
+    "description": "Wumpus winks and throws a thumbs up",
+    "mood": "Happy"
+  }
+]
